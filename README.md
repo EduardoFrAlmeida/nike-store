@@ -1,4 +1,4 @@
-# Fit Club
+# Nike Store
 
 ![Design WEB and Mobile](./src/nike-store.png)
 
