@@ -1,23 +1,22 @@
-# Nike Store Commerce Web Application! 
+# Fit Club
 
-## Getting Started
+![Design WEB and Mobile](./src/nike-store.png)
 
-First, run the development server:
+### Built with
+
+- React JS
+- Redux
+- Tailwind CSS
+
+
+## How to Use
 
 ```bash
-npm install
-# or
-yarn instll
+# using npm
+npm start
 
-# and Now:
-
-npm run dev
-# or
-yarn dev
+# OR using Yarn
+yarn start
 ```
-Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
 
-You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
-
-## Deploy on Vercel
 
